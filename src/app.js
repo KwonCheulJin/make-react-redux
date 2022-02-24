@@ -21,3 +21,5 @@ const App = () => <p>
 </p>
 
 render(<App />, document.querySelector('#root'));
+
+console.log(<App />)
